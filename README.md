@@ -11,9 +11,11 @@ MySeries.cr.signs.rus.ass
 ```
 
 ### Supported formats
-Video: `.mkv` `.mp4` `.avi` `.ts` `.m4v` `.webm` `.mov` `.wmv`
-Audio: `.mka` `.ac3` `.eac3` `.dts` `.flac` `.wav` `.aac` `.m4a` `.mp3` `.opus` `.thd`
-Subtitles: `.ass` `.ssa` `.srt` `.sub` `.sup` `.vtt`
+- Video: `.mkv` `.mp4` `.avi` `.ts` `.m4v` `.webm` `.mov` `.wmv`
+
+- Audio: `.mka` `.ac3` `.eac3` `.dts` `.flac` `.wav` `.aac` `.m4a` `.mp3` `.opus` `.thd`
+
+- Subtitles: `.ass` `.ssa` `.srt` `.sub` `.sup` `.vtt`
 
 ---
 ## mux.bat
@@ -26,6 +28,7 @@ Place the `mux.bat` script, the video files, audio files, and subtitle files in 
 
 ## smux.bat \[WIP\]
 **WORK IN PROGRESS**
+
 An improved script that supports parameters for the source folder, the audio folder, the subtitle folder, and the output folder.
 
 ### Usage
